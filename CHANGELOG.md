@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.9](https://github.com/azu/lerna-monorepo-github-actions-release/compare/v2.1.4...v2.1.9) (2023-10-02)
+
+
+### Bug Fixes
+
+* deps ([a83af57](https://github.com/azu/lerna-monorepo-github-actions-release/commit/a83af57a96e020eaa60c8995d77039560ea88dfd))
+
+
+
+
+
 ## [2.1.8](https://github.com/azu/lerna-monorepo-github-actions-release/compare/v2.1.4...v2.1.8) (2023-10-02)
 
 **Note:** Version bump only for package root
